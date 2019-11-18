@@ -38,7 +38,7 @@
     "url-loader": "^2.1.0",
     "watchify": "^3.7.0",
     "webpack": "^4.39.2",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.8.0"
   },
@@ -70,7 +70,7 @@
     "url-loader": "^2.1.0",
     "watchify": "^3.7.0",
     "webpack": "^4.39.2",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.8.0"
   },
