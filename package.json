@@ -40,7 +40,7 @@
     "webpack": "^4.39.2",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
     "@babel/core": "^7.5.5",
@@ -72,7 +72,7 @@
     "webpack": "^4.39.2",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^5.0.4"
   },
   "browserify": {
     "transform": [
